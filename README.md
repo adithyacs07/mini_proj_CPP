@@ -1,1 +1,1 @@
-# mini_proj_CPP
+# mini_proj_cpp
